@@ -1,0 +1,75 @@
+#EXTM3U x-tvg-url="https://viks03.github.io/epg-test/epg-test.xml"
+#EXTINF:0 tvg-id="bnt1.bg" tvg-name="BNT 1" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/bnt1.png" group-title="Тест EPG",BNT 1
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460989.ts
+#EXTINF:0 tvg-id="bnt2.bg" tvg-name="BNT 2" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/bnt2.png" group-title="Тест EPG",BNT 2
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460988.ts
+#EXTINF:0 tvg-id="bnt3.bg" tvg-name="BNT 3" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/bnt3.png" group-title="Тест EPG",BNT 3
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460987.ts
+#EXTINF:0 tvg-id="bnt4.bg" tvg-name="BNT 4" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/bnt4.png" group-title="Тест EPG",BNT 4
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460986.ts
+#EXTINF:0 tvg-id="bgonair.bg" tvg-name="BULGARIA ON AIR" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/bulgariaonair.png" group-title="Тест EPG",BULGARIA ON AIR
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460985.ts
+#EXTINF:0 tvg-id="nova.bg" tvg-name="NOVA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/novatv.png" group-title="Тест EPG",NOVA
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460984.ts
+#EXTINF:0 tvg-id="novasport.bg" tvg-name="NOVA SPORT" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/NOVA-SPORT.jpeg" group-title="Тест EPG",NOVA SPORT
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460983.ts
+#EXTINF:0 tvg-id="news.nova.bg" tvg-name="NOVA NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Novanews_re.svg/1280px-Novanews_re.svg.png" group-title="Тест EPG",NOVA NEWS
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460982.ts
+#EXTINF:0 tvg-id="diema.bg" tvg-name="DIEMA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/diema.png" group-title="Тест EPG",DIEMA
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460967.ts
+#EXTINF:0 tvg-id="diemafamily.bg" tvg-name="DIEMA FAMILY" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/diemafamily.png" group-title="Тест EPG",DIEMA FAMILY
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460966.ts
+#EXTINF:0 tvg-id="diemasport.bg" tvg-name="DIEMA SPORT 1" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/diemasporthd.png" group-title="Тест EPG",DIEMA SPORT 1
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460981.ts
+#EXTINF:0 tvg-id="diemasport2.bg" tvg-name="DIEMA SPORT 2" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/diemasport2.png" group-title="Тест EPG",DIEMA SPORT 2
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460980.ts
+#EXTINF:0 tvg-id="diemasport3.bg" tvg-name="DIEMA SPORT 3" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/diemasport2hd.png" group-title="Тест EPG",DIEMA SPORT 3
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460979.ts
+#EXTINF:0 tvg-id="maxsport1.bg" tvg-name="MAX SPORT 1" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/maxsport1hd.png" group-title="Тест EPG",MAX SPORT 1
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460978.ts
+#EXTINF:0 tvg-id="maxsport2.bg" tvg-name="MAX SPORT 2" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MAX-SPORT-2-HD.png" group-title="Тест EPG",MAX SPORT 2
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460977.ts
+#EXTINF:0 tvg-id="maxsport3.bg" tvg-name="MAX SPORT 3" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MAX-SPORT-3-HD.png" group-title="Тест EPG",MAX SPORT 3
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460976.ts
+#EXTINF:0 tvg-id="maxsport4.bg" tvg-name="MAX SPORT 4" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MAX-SPORT-4-HD.jpeg" group-title="Тест EPG",MAX SPORT 4
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460975.ts
+#EXTINF:0 tvg-id="btv.bg" tvg-name="BTV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/btvhd.png" group-title="Тест EPG",BTV
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460974.ts
+#EXTINF:0 tvg-id="btvaction.bg" tvg-name="BTV ACTION" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/btvaction.png" group-title="Тест EPG",BTV ACTION
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460973.ts
+#EXTINF:0 tvg-id="btvcinema.bg" tvg-name="BTV CINEMA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/btvcinema.png" group-title="Тест EPG",BTV CINEMA
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460972.ts
+#EXTINF:0 tvg-id="btvcomedy.bg" tvg-name="BTV COMEDY" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/btvcomedy.png" group-title="Тест EPG",BTV COMEDY
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460971.ts
+#EXTINF:0 tvg-id="btvstory.bg" tvg-name="BTV STORY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11217.jpg?54253" group-title="Тест EPG",BTV STORY
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460970.ts
+#EXTINF:0 tvg-id="ring.bg" tvg-name="RING" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ringtv.png" group-title="Тест EPG",RING
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460965.ts
+#EXTINF:0 tvg-id="kinonova.bg" tvg-name="KINO NOVA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3791.png?38114" group-title="Тест EPG",KINO NOVA
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460941.ts
+#EXTINF:0 tvg-id="bloombergtv.bg" tvg-name="BLOOMBERG TV BULGARIA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11392.png?42980" group-title="Тест EPG",BLOOMBERG TV BULGARIA
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460946.ts
+#EXTINF:0 tvg-id="evrokom.bg" tvg-name="EVROKOM" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/evrokom.png" group-title="Тест EPG",EVROKOM
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460938.ts
+#EXTINF:0 tvg-id="kanal3.bg" tvg-name="KANAL 3" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/kanal3.png" group-title="Тест EPG",KANAL 3
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460926.ts
+#EXTINF:0 tvg-id="planetatv.bg" tvg-name="PLANETA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/planetatv.png" group-title="Тест EPG",PLANETA
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460937.ts
+#EXTINF:0 tvg-id="planetafolk.bg" tvg-name="PLANETA FOLK" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/PLANETA-FOLK.jpeg" group-title="Тест EPG",PLANETA FOLK
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460936.ts
+#EXTINF:0 tvg-id="fentv.bg" tvg-name="FEN TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9934.png?99406" group-title="Тест EPG",FEN TV
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460969.ts
+#EXTINF:0 tvg-id="traveltv.bg" tvg-name="TRAVEL TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/travelchannel.png" group-title="Тест EPG",TRAVEL TV
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460927.ts
+#EXTINF:0 tvg-id="citytv.bg" tvg-name="CITY TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/citytv.png" group-title="Тест EPG",CITY TV
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460939.ts
+#EXTINF:0 tvg-id="thevoice.bg" tvg-name="THE VOICE" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/thevoice.png" group-title="Тест EPG",THE VOICE
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460940.ts
+#EXTINF:0 tvg-id="sedemosmi.tv" tvg-name="TV 7/8" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14295.jpg?15839" group-title="Тест EPG",TV 7/8
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460958.ts
+#EXTINF:0 tvg-id="tvevropa.bg" tvg-name="EURONEWS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14247.png?25323" group-title="Тест EPG",EURONEWS
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460959.ts
+#EXTINF:0 tvg-id="agrotv.bg" tvg-name="AGRO TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/agrotv.png" group-title="Тест EPG",AGRO TV
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460960.ts
+#EXTINF:0 tvg-id="balkanika.bg" tvg-name="BALKANIKA TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/balkanikamusictelevision.png" group-title="Тест EPG",BALKANIKA TV
+http://cf.terratv.app/live/4f9971567769/3ab9ac4ffb/1460956.ts
